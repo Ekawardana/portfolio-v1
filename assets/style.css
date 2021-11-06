@@ -15,7 +15,7 @@ body {
 }
 
 .jumbotron{
-    background-image: url('../assets/img/5259951.jpg');
+    background-image: url('../assets/img/graphic.jpg');
     height: 560px;
     position: relative;
     padding-top: 50px;
@@ -102,7 +102,7 @@ body {
         font-weight: 700;
     }
     .jumbotron{
-        background-image: url('../assets/img/5259951.jpg');
+        background-image: url('../assets/img/graphic.jpg');
         height: 800px;
         margin-bottom: 35px;
     }
